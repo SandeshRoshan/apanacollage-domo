@@ -1,2 +1,4 @@
 # apanacollage-domo
-This is first repo
+This is first repository 
+<br>
+Author Sandesh Roshan
