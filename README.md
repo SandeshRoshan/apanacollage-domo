@@ -1,4 +1,4 @@
 # apanacollage-domo
 This is first repository 
 <br>
-Author Sandesh Roshan
+Author Sandesh Roshan (King)
